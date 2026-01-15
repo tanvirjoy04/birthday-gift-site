@@ -72,3 +72,11 @@ body{
 #gift-img-genius:hover{
   background-image: url("./genius.gif");
 }
+
+#gift-img-cheers:hover{
+  background-image: url("./cheers.gif");
+}
+
+#gift-img-cheers{
+ height:200; 
+}
