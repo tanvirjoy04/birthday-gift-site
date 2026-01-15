@@ -14,7 +14,8 @@ img{
   border-radius: 50%; 
 }
 
-
-pink: #EFB0C9
-blue: #a2d2ff
-white: #ffffff
+h1,
+h2,
+h4{
+  text-shadow: 0 0 1px black;
+}
