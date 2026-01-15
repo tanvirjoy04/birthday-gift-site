@@ -64,3 +64,11 @@ body{
 #gift-img-hot:hover{
   background-image: url("./hot.gif");
 }
+
+#gift-img-badass:hover{
+  background-image: url("./badass.gif");
+}
+
+#gift-img-genius:hover{
+  background-image: url("./genius.gif");
+}
