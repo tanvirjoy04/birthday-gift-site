@@ -49,22 +49,18 @@ body{
   height: 400px;
   background-image: url("./gift-cover.jpg");
   background-size:cover;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 .gift-section{
   margin-top: 20px;
 }
 
-.cover:hover{
-  
+#gift-img-happy:hover{
+  background-image: url("./happy.gif");
 }
-/*
-Challenge:
-1. Create a "gift-section" <div> that will wrap
-   all the elements for the first gift.
-2. Add the <h2>, <h3>, and <img> elements, and
-   give all of them their own classes.
-3. Style the elements according to the design.
 
-PS: the image should be 400px wide.
-*/ 
+#gift-img-hot:hover{
+  background-image: url("./hot.gif");
+}
