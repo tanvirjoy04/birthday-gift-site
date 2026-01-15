@@ -6,6 +6,9 @@ body{
   background-color: #a2d2ff;
   color: #ffffff;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 img{
@@ -18,4 +21,9 @@ h1,
 h2,
 h4{
   text-shadow: 0 0 1px black;
+}
+
+h2,
+h4{
+  background-color: #EFB0C9;
 }
