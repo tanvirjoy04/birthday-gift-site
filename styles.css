@@ -21,7 +21,8 @@ body{
 #age,
 #date,
 .gift-title,
-.gift-hint{
+.gift-hint,
+#footer{
   text-shadow: 0 0 1px black;
 }
 
@@ -32,6 +33,7 @@ body{
   border-radius: 5px;
   margin:15px;
 }
+
 #date{
   margin-top: -5px;
 }
@@ -79,4 +81,9 @@ body{
 
 #gift-img-cheers{
  height:200; 
+ margin-bottom: 40px;
+}
+
+a{
+  color:inherit;
 }
