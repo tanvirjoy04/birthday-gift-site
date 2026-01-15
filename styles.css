@@ -45,6 +45,10 @@ body{
 .gift-img{
   border-radius: 10px;
   border:6px solid white;
+  width: 400px; 
+  height: 400px;
+  background-image: url("./gift-cover.jpg");
+  background-size:cover;
 }
 
 .gift-section{
